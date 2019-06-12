@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "405524341269",
+    "firebase_url": "https://ngpay-244d3.firebaseio.com",
+    "project_id": "ngpay-244d3",
+    "storage_bucket": "ngpay-244d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405524341269:android:4a9edd607cf5a031",
+        "android_client_info": {
+          "package_name": "com.developer.wise4rmgod.chatappfirestorekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405524341269-dpbfbhj4vl8ksghijnk5vihbkl3qd09v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.wise4rmgod.chatappfirestorekotlin",
+            "certificate_hash": "81f77176989f70169a9c68ee697161ff0f851783"
+          }
+        },
+        {
+          "client_id": "405524341269-3p52g2vsh6i830au1j882p42usq15jf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI7nI5hRpEHTA167jraEjEQtgCh9xdg0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405524341269-3p52g2vsh6i830au1j882p42usq15jf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405524341269:android:ae508986c4900868",
+        "android_client_info": {
+          "package_name": "com.developer.wise4rmgod.firebasedocfileuploadanddownload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405524341269-ajlih5vjnjgt99o7glrv24j8nhgq0uom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.wise4rmgod.firebasedocfileuploadanddownload",
+            "certificate_hash": "81f77176989f70169a9c68ee697161ff0f851783"
+          }
+        },
+        {
+          "client_id": "405524341269-3p52g2vsh6i830au1j882p42usq15jf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI7nI5hRpEHTA167jraEjEQtgCh9xdg0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405524341269-3p52g2vsh6i830au1j882p42usq15jf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405524341269:android:5c4fffccff0ee042",
+        "android_client_info": {
+          "package_name": "com.developer.wise4rmgod.ngpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405524341269-nb740n333sri6kdgnkif8a71809n5jd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.wise4rmgod.ngpay",
+            "certificate_hash": "81f77176989f70169a9c68ee697161ff0f851783"
+          }
+        },
+        {
+          "client_id": "405524341269-3p52g2vsh6i830au1j882p42usq15jf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI7nI5hRpEHTA167jraEjEQtgCh9xdg0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405524341269-3p52g2vsh6i830au1j882p42usq15jf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405524341269:android:88413bcf69d926fb",
+        "android_client_info": {
+          "package_name": "com.developer.wise4rmgod.twosureodds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405524341269-h11g38b2js5s68n85nder3outt0mnknn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.wise4rmgod.twosureodds",
+            "certificate_hash": "81f77176989f70169a9c68ee697161ff0f851783"
+          }
+        },
+        {
+          "client_id": "405524341269-3p52g2vsh6i830au1j882p42usq15jf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI7nI5hRpEHTA167jraEjEQtgCh9xdg0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405524341269-3p52g2vsh6i830au1j882p42usq15jf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
